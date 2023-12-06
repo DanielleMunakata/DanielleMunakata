@@ -1,7 +1,10 @@
-# Oie devs 👋
+# Bem vindos ao meu Git 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Estudo na SPTech e participo de vários projetos de Pesquisa e Inovação
+Eles abrangem diversas linguagens e nos ajudam como devs a entender o contexto de negócio e trabalhar em equipe  
 
+- Gosto: Backend, dados e café ☕
+  
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
@@ -77,5 +80,5 @@ var jsonDani ={
 </a>
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielleMunakata&show_icons=true&theme=dracula&line_height=27" alt="Danielle Munakata" github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielleMunakata&show_icons=true&theme=dracula&line_height=27" alt="Danielle Munakata github stats"/>
 </a>
