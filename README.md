@@ -1,6 +1,6 @@
 # Bem vindos ao meu Git 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF007F&size=30&center=true&vCenter=true&width=1000&lines=Oi+devs,+meu+nome+é+Dani;Tenho+18+anos;Gosto:+Backend+,dados+e+cafe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=30&center=true&vCenter=true&width=1000&lines=Oi+devs,+meu+nome+é+Dani;Tenho+18+anos;Gosto:+Backend+,dados+e+cafe)](https://git.io/typing-svg)
 
 Estudo na SPTech e participo de vários projetos de Pesquisa e Inovação
 Eles abrangem diversas linguagens e nos ajudam como devs a entender o contexto de negócio e trabalhar em equipe  
