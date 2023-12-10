@@ -2,8 +2,6 @@
 
 Estudo na SPTech e participo de vários projetos de Pesquisa e Inovação
 Eles abrangem diversas linguagens e nos ajudam como devs a entender o contexto de negócio e trabalhar em equipe  
-
-- Curso: Ciências da Computação 
   
 ## Mais sobre mim
 
